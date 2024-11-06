@@ -1,5 +1,12 @@
 ## 国内镜像版
-将常见系统的镜像地址改为国内镜像源，目前使用了阿里云、清华大学、北京大学的镜像源
+将常见系统的镜像地址改为国内镜像源，目前使用了阿里云、清华大学、北京大学的镜像源。
+
+**由于 netbootxyz 部分系统（live-cd）启动依赖 github 上的资源，我暂时无法提供相关镜像资源（服务器费用高），有愿意赞助这个项目的朋友可以联系我 863448246@qq.com**
+
+## 使用方式
+请从本项目的[Releases](https://github.com/lantongxue/netboot.xyz.cn/releases)下载相关启动引导的文件，然后用法完全参照[官方文档](https://netboot.xyz/docs/)使用。
+
+本项目未修改原有的任何功能，仅仅是替换了镜像地址！
 
 ## netboot.xyz [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Your%20favorite%20operating%20systems%20in%20one%20place!&url=https://netboot.xyz&hashtags=netbootxyz,ipxe,pxe,linux,tech,code)
 

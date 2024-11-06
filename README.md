@@ -8,6 +8,10 @@
 
 本项目未修改原有的任何功能，仅仅是替换了镜像地址！
 
+### Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/lantongxue/netboot.xyz.cn.svg)](https://starchart.cc/lantongxue/netboot.xyz.cn)
+
 ## netboot.xyz [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Your%20favorite%20operating%20systems%20in%20one%20place!&url=https://netboot.xyz&hashtags=netbootxyz,ipxe,pxe,linux,tech,code)
 
 Your favorite operating systems in one place!

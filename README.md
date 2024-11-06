@@ -1,5 +1,5 @@
 ## 国内镜像版
-将常见系统的镜像地址改为国内的，目前使用了阿里云、清华大学、北京大学的镜像源
+将常见系统的镜像地址改为国内镜像源，目前使用了阿里云、清华大学、北京大学的镜像源
 
 ## netboot.xyz [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Your%20favorite%20operating%20systems%20in%20one%20place!&url=https://netboot.xyz&hashtags=netbootxyz,ipxe,pxe,linux,tech,code)
 
